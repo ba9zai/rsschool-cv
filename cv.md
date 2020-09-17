@@ -6,8 +6,8 @@
 
 - Belarus,Lepel
 - +375333584745
-- E-mail
-- Telegram
+- [E-mail](https://maximka.97@bk.ru) (maximka.97@bk.ru)
+- [Telegram](https://t.me/ba9zai)
 - [GitHub](https://github.com/ba9zai)
 - [Facebook](https://www.facebook.com/profile.php?id=100009390053514)
 
