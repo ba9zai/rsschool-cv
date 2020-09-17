@@ -1,13 +1,15 @@
+# rsschool-cv
+
 ## 1.Maksim,Plavinski
 
 ## 2.Contact:
 
-_Belarus,Lepel
-_+375333584745
-*E-mail
-*Telegram
-*GitHub
-*Facebook
+- Belarus,Lepel
+- +375333584745
+- E-mail
+- Telegram
+- [GitHub](https://github.com/ba9zai)
+- [Facebook](https://www.facebook.com/profile.php?id=100009390053514)
 
 ## 3.Summary:
 
@@ -15,12 +17,15 @@ Junior Web Developer with one plus years of experience is seeking an opportunity
 
 ## 4.Skills
 
-*HTML
-*CSS
+- HTML
+- CSS
 
 ## 5.Code Examples
 
 ## 6.Experience
+
+- worked with MS Office
+- reinstalling windows
 
 ## 7.Education
 
