@@ -21,3 +21,11 @@ Junior Web Developer with one plus years of experience is seeking an opportunity
 ## 5.Code Examples
 
 ## 6.Experience
+
+## 7.Education
+
+I've finished Vitebsk State University.I am a bioecologist
+
+## 8.English
+
+A1 - Elementary
